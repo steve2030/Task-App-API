@@ -1,2 +1,4 @@
-package com.eclectics.task.Task;public class Task {
+package com.eclectics.task.Task;
+
+public class Task {
 }
